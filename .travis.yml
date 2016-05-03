@@ -1,6 +1,6 @@
 language: android
 sudo: required
-dist: precise
+dist: trusty
 android:
   components:
     - tools
